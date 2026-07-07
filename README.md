@@ -24,9 +24,6 @@ I made this because normal business cards are kinda boring, and I wanted somethi
 
 ![Schematic](assets/schematic.png)
 
-## Wiring
-
-There is no external wiring for this project. Everything is on the PCB.
 
 ## PCB design files
 
