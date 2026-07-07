@@ -34,6 +34,12 @@ The KiCad files are in [`PCB design files`](PCB%20design%20files).
 
 The JLCPCB production files are in [`PCB design files/jlcpcb/production_files`](PCB%20design%20files/jlcpcb/production_files).
 
+## JLCPCB order cost
+
+The final JLCPCB cart total came out to **$21.78 USD**.
+
+![JLCPCB cart total](assets/jlcpcb-order-cost.png)
+
 ## BOM
 
 | Comment | Designator | Footprint | LCSC Part # | Quantity |
