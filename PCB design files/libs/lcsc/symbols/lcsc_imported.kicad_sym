@@ -335,7 +335,7 @@
         (font (size 1.27 1.27))
       )
     )
-    (property "Footprint" "lcsc_footprints:C2295_LED0805-R-RD"
+    (property "Footprint" "lcsc_footprints:C84256_LED0805-R-RD"
       (at 0 -10.16 0)
       (effects
         (font (size 1.27 1.27))
@@ -356,7 +356,7 @@
         (hide yes)
       )
     )
-    (property "LCSC" "C2295"
+    (property "LCSC" "C84256"
       (at 0 0 0)
       (effects
         (font (size 1.27 1.27))

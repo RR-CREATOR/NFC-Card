@@ -38,7 +38,7 @@ The JLCPCB production files are in [`PCB design files/jlcpcb/production_files`](
 
 | Comment | Designator | Footprint | LCSC Part # | Quantity |
 | --- | --- | --- | --- | ---: |
-| 805 | LED1 | C2296_LED0805-R-RD | C2295 | 1 |
+| 805 | LED1 | C2296_LED0805-R-RD | C84256 | 1 |
 | 220nF | C1 | C_0603_1608Metric | C21120 | 1 |
 | 47 | R1 | R_0603_1608Metric | C23182 | 1 |
 | NT3H2111W0FHKH | U1 | C710403_XQFN-8_L1_6-W1_6-P0_50-BL_NT3H2111W0FHKH | C710403 | 1 |

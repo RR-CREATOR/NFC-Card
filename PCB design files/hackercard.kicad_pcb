@@ -4500,7 +4500,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2295"
+		(property "JLC" "C84256"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4526,7 +4526,7 @@
 				)
 			)
 		)
-		(property "JLC Part #" "C2295"
+		(property "JLC Part #" "C84256"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
